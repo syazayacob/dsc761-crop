@@ -1,4 +1,4 @@
-# dsc761-crop (second)
+# DSC761-agriculture
 
 # 🌾 Agricultural Crop Prediction System
 
